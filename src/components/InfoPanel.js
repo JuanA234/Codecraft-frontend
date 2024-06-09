@@ -5,7 +5,7 @@ function InfoPanel() {
   return (
     <>
       <div className="cuadro">
-        <img id="javaScriptLogo" src="/static/assets/img/javascript.png" alt="Logo javaScript" />
+        <img id="javaScriptLogo" src="/img/javascript.png" alt="Logo javaScript" />
         <h2><strong>Codigo en JavaScript</strong></h2>
         <ul>
           <li><span className="highlight-yellow">Condicionales:</span>
@@ -41,7 +41,7 @@ function InfoPanel() {
         </ul>
       </div>
       <div className="cuadro">
-        <img id="codecraft-logo" src="/static/assets/img/codecraft-logo.jpeg" alt="Logo del lenguaje Codecraft" />
+        <img id="codecraft-logo" src="img/codecraft-logo.jpeg" alt="Logo del lenguaje Codecraft" />
         <h2><strong>Codigo en CodeCraft</strong></h2>
         <ul>
           <li><span className="highlight-blue">Condicionales:</span>

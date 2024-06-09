@@ -5,7 +5,7 @@ function Header() {
   return (
     <header>
       <div className="header-box">
-        <img id="logo-header" src="/static/assets/img/codecraft-logo.jpeg" alt="Logo del lenguaje Codecraft" />
+        <img id="logo-header" src="/img/codecraft-logo" alt="Logo del lenguaje Codecraft" />
         <nav>
           <ul>
             <li><a href="#">Editor de código</a></li>

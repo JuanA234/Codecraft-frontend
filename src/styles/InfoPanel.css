@@ -1,0 +1,27 @@
+.contenedor {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cuadro {
+    width: 45%;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.cuadro ul li ul li {
+    margin: 10px 0;
+}
+
+.cuadro img {
+    width: 200px;
+    height: 200px;
+}
+
+.highlight-yellow {
+    background-color: yellow;
+}
+
+.highlight-blue {
+    background-color: lightblue;
+}
